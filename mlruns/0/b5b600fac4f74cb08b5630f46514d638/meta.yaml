@@ -1,0 +1,15 @@
+artifact_uri: file:///home/n7student/3A/mlflow_project/test/mlruns/0/b5b600fac4f74cb08b5630f46514d638/artifacts
+end_time: 1720306153059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5b600fac4f74cb08b5630f46514d638
+run_name: defiant-fish-811
+run_uuid: b5b600fac4f74cb08b5630f46514d638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720306151258
+status: 3
+tags: []
+user_id: n7student

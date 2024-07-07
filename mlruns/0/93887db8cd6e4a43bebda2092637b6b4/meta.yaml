@@ -1,0 +1,15 @@
+artifact_uri: file:///home/n7student/3A/mlflow_project/test/mlruns/0/93887db8cd6e4a43bebda2092637b6b4/artifacts
+end_time: 1720307918292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93887db8cd6e4a43bebda2092637b6b4
+run_name: sedate-toad-137
+run_uuid: 93887db8cd6e4a43bebda2092637b6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720307916226
+status: 3
+tags: []
+user_id: n7student
